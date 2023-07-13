@@ -1,4 +1,4 @@
-  console.log("V4 med default ad units");
+  console.log("V4 ad units");
   var script = document.createElement('script');
   script.id = "649eccaec5d9b001b60d2807";
   script.type = "text/javascript";
